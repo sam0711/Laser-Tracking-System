@@ -1,19 +1,19 @@
 # Laser-Targeting-System
 
-Public repository of our final iteration
-
 <img src="Laser_tracking_picture.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
 
-## For EECS 452 Use
+## Hardware
 
-### Installing/Downloading library
-[Dynamixel offical Arduino library](https://github.com/ROBOTIS-GIT/DynamixelShield/tree/master)
+Boards: OpenRB-150 and ESP32S3
 
-Go to the Aruino -> libraries. The Arduino folder is by default in documents folder for Windows.
+Servos: XL330-M288-T by ROBOTIS
 
-git clone this repo
+## Setting Up Environment
+[OpenRB-150 Manual](https://emanual.robotis.com/docs/en/parts/controller/openrb-150/#install-the-arduino-ide)
 
-Run xl320_servo_example on Arduino IDE.
+Follow Section 6.2 through 6.4 of the manual to set up the environment.
+
+##
 
 ### Tutorial/Tips
 
