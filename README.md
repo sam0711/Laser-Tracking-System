@@ -9,9 +9,32 @@ Boards: OpenRB-150 and ESP32S3
 Servos: XL330-M288-T by ROBOTIS
 
 ## Setting Up Environment
+
+### OpenRB-150
+
 [OpenRB-150 Manual](https://emanual.robotis.com/docs/en/parts/controller/openrb-150/#install-the-arduino-ide)
 
 Follow Section 6.2 through 6.4 of the manual to set up the environment.
+
+### ESP32S3
+
+INSTALL.txt a TEXT file with information on how to compile and run your code, if you used something outside of what's covered in class / lab (optional)
+
+To compile ESP32 Code on Arduino IDE:
+Go to your Arduino IDE --> Arduino --> Preferences --> Additional Boards Manager URLs
+Input the following in a newline: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Click ok.
+
+Tools --> Board --> Board Manager
+Search: esp32
+Select: author Espressif Systems, version 2.0.9 or above
+
+Tools --> Board --> ESP32 Arduino --> XIAO_ESP32S3
+
+Tools --> PSRAM --> OPIPSRAM
+
+You should now be able to compile, and upload code to the ESP32S3
 
 ##
 
