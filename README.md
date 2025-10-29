@@ -1,6 +1,6 @@
 # Laser-Targeting-System
 
-<img src="Laser_tracking_picture.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
+<img src="3d_CAD.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
 
 ## Hardware
 
