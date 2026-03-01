@@ -1,6 +1,14 @@
 # Laser-Targeting-System
 
-<img src="3d_CAD.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
+This is the working repository to enhance the post senior design project from University of Michigan EECS 452.
+This project is striving to achieve enhanced mechanical design, target prediction algotrithm, and the tracking accuracy from the previous version.
+
+<figure>
+  <img src="3d_CAD.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
+  <figcaption>
+    <strong>Figure 1:</strong> LTS Mechanical Version 2.
+  </figcaption>
+</figure>
 
 ## Hardware
 
@@ -71,3 +79,10 @@ Looking from above, with the servo head at the top, wire the left plug of the se
 * PIN3: Serial TX
 
 ![Dynamixel XL-320 wiring diagram](XL320-wiring.jpg)
+<figure>
+  <figcaption>
+    <strong>Figure 2:</strong> Dynamixel XL series pinout diagram.
+  </figcaption>
+</figure>
+
+
