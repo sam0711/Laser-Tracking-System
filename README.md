@@ -4,14 +4,17 @@ This is the working repository to enhance the post senior design project from Un
 
 [Senior project repository](https://github.com/EECS-452-Laser-Targeting-System/Laser-Tracking-System)
 
+https://github.com/user-attachments/assets/b2d5b19e-faac-4575-aba1-ac9b8b9301a6
+
 This project is striving to achieve enhanced mechanical design, target prediction algotrithm, and the tracking accuracy from the previous version.
 
 <figure>
-  <img src="3d_CAD.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
+  <img src="Media/3d_CAD.jpg" width="70%" alt="Laser Targeting System" title="Laser Targeting System">
   <figcaption>
     <strong>Figure 1:</strong> LTS Mechanical Version 2.
   </figcaption>
 </figure>
+
 
 ## Hardware
 
@@ -81,8 +84,8 @@ Looking from above, with the servo head at the top, wire the left plug of the se
 * PIN2: 5 volts
 * PIN3: Serial TX
 
-![Dynamixel XL-320 wiring diagram](XL320-wiring.jpg)
 <figure>
+  <img src="XL320-wiring.jpg" width="70%">
   <figcaption>
     <strong>Figure 2:</strong> Dynamixel XL series pinout diagram.
   </figcaption>
