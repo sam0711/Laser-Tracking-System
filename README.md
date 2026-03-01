@@ -1,6 +1,9 @@
 # Laser-Targeting-System
 
 This is the working repository to enhance the post senior design project from University of Michigan EECS 452.
+
+[Senior project repository](https://github.com/EECS-452-Laser-Targeting-System/Laser-Tracking-System)
+
 This project is striving to achieve enhanced mechanical design, target prediction algotrithm, and the tracking accuracy from the previous version.
 
 <figure>
